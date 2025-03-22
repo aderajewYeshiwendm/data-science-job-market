@@ -1,0 +1,9 @@
+role,role_category,median_salary_usd_2024,median_salary_usd_2023,salary_p10_usd,salary_p90_usd,yoy_salary_growth_pct,bls_employment_2024,bls_proj_growth_pct_2024_2034,annual_openings_projected,top_skill_2024,remote_hybrid_pct_2024,source,data_as_of,currency
+Machine Learning Engineer,AI/ML,166000,150000,105000,220000,10.7,,,,Python,55,Glassdoor/365DataScience,2024-Q4,USD
+Data Scientist,Data Science,157000,140000,63650,194410,12.1,233440,33.5,23400,Python,52,BLS+Glassdoor,2024-Q4,USD
+Data Engineer,Data Engineering,130000,118000,72000,190000,10.2,,,,SQL,48,Glassdoor/365DataScience,2024-Q4,USD
+Business Intelligence Engineer,Analytics,115000,105000,72000,170000,9.5,,,,SQL,40,Glassdoor,2024-Q4,USD
+Data Analyst,Analytics,95000,86000,52000,140000,10.5,680000,,,SQL,38,BLS+Glassdoor,2024-Q4,USD
+Statistician,Math/Statistics,112330,103000,62000,175000,9.1,29800,8.3,4000,R,35,BLS,2024-Q4,USD
+Operations Research Analyst,Operations,99120,91000,60000,150000,8.9,107760,23.0,11000,Python,30,BLS,2024-Q4,USD
+Database Architect,Data Engineering,134870,120000,88000,195000,12.4,,,,SQL,42,Glassdoor,2024-Q4,USD
