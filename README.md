@@ -6,8 +6,8 @@
 
 ## 🖼 Preview
 
-![Visual Report](outputs/visual_report.png)
-![Skills Analysis](outputs/skills_analysis.png)
+![Visual Report](visual_report.png)
+![Skills Analysis](skills_analysis.png)
 
 ---
 
